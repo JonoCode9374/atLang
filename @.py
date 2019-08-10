@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import sys, string, os
 from fractions import Fraction
 
